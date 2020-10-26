@@ -1,0 +1,16 @@
+body {
+    background-color: #9dff0093;
+}
+
+.serverstitle {
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+#serverembed {
+    display: flex; 
+    justify-content: center;
+    position: relative;
+    top: 100px;
+}
